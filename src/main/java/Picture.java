@@ -129,7 +129,7 @@ public class Picture extends SimplePicture
         // YOUR CODE HERE
     }
 
-    // Bonus — Explore the “water.jpg” picture in the images folder. Write a method
+    // Bonus — Explore the "water.jpg" picture in the images folder. Write a method
     // fixUnderwater() to modify the pixel colors to make the fish easier to see
     public void fixUnderwater() {
         // YOUR CODE HERE
